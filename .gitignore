@@ -1,1 +1,1 @@
-echo "api_key.py" >> .gitignore
+api_key.py
